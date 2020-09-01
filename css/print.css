@@ -1,0 +1,26 @@
+body{
+  background-color: #f8f9fa;
+  font-family: 'Open Sans', sans-serif;
+}
+#visor{
+  background-color: rgb(255, 255, 255);
+    width: 720px;
+    height: 960px;
+    margin: 0 auto;
+    padding: 96px;
+}
+#visor p{
+  font-size: 14px;
+  text-align: justify;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
